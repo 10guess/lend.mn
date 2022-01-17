@@ -435,7 +435,6 @@ a .ahref {
     .list__desktop { 
         display: flex;
         justify-content: flex-end;
-        padding-left: 250px;
     }
     .list__desktop ul { 
         margin: 0;
